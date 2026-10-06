@@ -25,7 +25,7 @@ return [
     'app_subtitle' => 'AI Potential & Leadership Profiler',
     'app_version' => '2.0.0',
     'developer' => 'Sevcan Koç',
-    'developer_url' => 'https://github.com/sevcankoc',
+    'developer_url' => 'https://github.com/sevcanncll',
     
     // Gemini API Key (Loaded strictly from .env or system environment)
     'gemini_api_key' => getenv('GEMINI_API_KEY') ?: ($_ENV['GEMINI_API_KEY'] ?? ''),

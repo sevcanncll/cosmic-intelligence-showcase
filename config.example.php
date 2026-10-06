@@ -9,7 +9,7 @@ return [
     'app_subtitle' => 'AI Potential & Leadership Profiler',
     'app_version' => '2.0.0',
     'developer' => 'Sevcan Koç',
-    'developer_url' => 'https://github.com/sevcankoc',
+    'developer_url' => 'https://github.com/sevcanncll',
     
     // Set your Google Gemini API Key in .env or here
     'gemini_api_key' => getenv('GEMINI_API_KEY') ?: 'YOUR_GEMINI_API_KEY_HERE',

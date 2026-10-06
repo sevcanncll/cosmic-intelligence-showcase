@@ -125,7 +125,7 @@ $config = require __DIR__ . '/config.php';
 
     <!-- Global Official Footer -->
     <footer class="global-footer">
-        Cosmic Intelligence AI &bull; Lead Developer: <a href="https://github.com/sevcankoc" target="_blank">Sevcan Koç</a> &bull; &copy; <?= date('Y') ?>
+        Cosmic Intelligence AI &bull; Lead Developer: <a href="https://github.com/sevcanncll" target="_blank">Sevcan Koç</a> &bull; &copy; <?= date('Y') ?>
     </footer>
 
     <script src="assets/js/app.js"></script>
