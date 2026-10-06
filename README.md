@@ -61,12 +61,13 @@ Bu platform; **şirketlere, zirvelere, lansmanlara ve mesleki organizasyonlara**
 
 ---
 
-## 🛠️ Kurulum & Yerel Çalıştırma (Setup)
+## 🛠️ Teknoloji Yığını (Tech Stack)
 
-1. Projeyi XAMPP `htdocs` klasörüne yerleştirin: `C:\xampp\htdocs\cosmic_intelligence`
-2. `.env.example` dosyasını `.env` olarak kopyalayın ve Gemini API anahtarınızı girin.
-3. XAMPP Control Panel üzerinden **Apache** servisini başlatın.
-4. Tarayıcınızdan açın: `http://localhost/cosmic_intelligence/`
+* **Backend & API:** Pure PHP 8.x, REST API Architecture, cURL, JSON Engine
+* **Yapay Zeka (AI):** Google Gemini 2.5 Flash API (Structured JSON Output)
+* **Astroloji Algoritmaları:** Saf PHP Julian Day & Ecliptic Ephemeris Coordinate Equations
+* **Frontend:** Vanilla HTML5, Modern CSS (Glassmorphism & Print Media Query), ES6+ JavaScript
+* **Ses & Atmosfer:** Web Audio API & HTML5 Audio
 
 ---
 
