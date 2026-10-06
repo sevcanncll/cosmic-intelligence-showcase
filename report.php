@@ -124,10 +124,40 @@ $lang = $user['language'] ?? 'tr';
             z-index: 2;
         }
 
-        .rep-logo {
-            height: 48px;
-            max-width: 250px;
-            object-fit: contain;
+        .rep-brand-block {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .rep-icon-img {
+            width: 44px;
+            height: 44px;
+            flex-shrink: 0;
+            filter: drop-shadow(0 0 10px rgba(0, 229, 255, 0.4));
+        }
+
+        .rep-brand-texts {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .rep-brand-title {
+            font-family: 'Outfit', sans-serif;
+            font-size: 18px;
+            font-weight: 800;
+            color: #ffffff;
+            letter-spacing: 2px;
+            line-height: 1.1;
+        }
+
+        .rep-brand-sub {
+            font-size: 8.5px;
+            font-weight: 600;
+            color: #93c5fd;
+            letter-spacing: 2px;
+            margin-top: 2px;
+            opacity: 0.9;
         }
 
         .rep-title-block {
@@ -413,10 +443,16 @@ $lang = $user['language'] ?? 'tr';
 
         <!-- Header -->
         <div class="rep-header">
-            <img src="assets/img/cosmic_logo.svg" alt="Cosmic Intelligence" class="rep-logo">
+            <div class="rep-brand-block">
+                <img src="assets/img/cosmic_icon.svg" alt="Cosmic Intelligence" class="rep-icon-img">
+                <div class="rep-brand-texts">
+                    <span class="rep-brand-title">COSMIC <span style="color:#00E5FF;">INTELLIGENCE</span></span>
+                    <span class="rep-brand-sub">AI POTENTIAL &amp; LEADERSHIP PROFILER</span>
+                </div>
+            </div>
             <div class="rep-title-block">
                 <h1>AI Natal Profiler</h1>
-                <h2>Cosmic Intelligence Potential &amp; Leadership Report</h2>
+                <h2>Official Potential &amp; Leadership Report</h2>
             </div>
         </div>
 

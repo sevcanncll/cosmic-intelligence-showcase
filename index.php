@@ -32,7 +32,11 @@ $config = require __DIR__ . '/config.php';
     <!-- Navigation Bar -->
     <header class="top-nav">
         <div class="brand-emblem">
-            <img src="assets/img/cosmic_logo.svg" alt="<?= htmlspecialchars($config['app_name']) ?>" class="brand-logo-img">
+            <img src="assets/img/cosmic_icon.svg" alt="<?= htmlspecialchars($config['app_name']) ?>" class="brand-icon-img">
+            <div class="brand-text-block">
+                <span class="brand-name">COSMIC <span class="brand-accent">INTELLIGENCE</span></span>
+                <span class="brand-tagline">AI POTENTIAL &amp; LEADERSHIP PROFILER</span>
+            </div>
         </div>
         <div class="nav-actions">
             <button id="langToggleBtn" class="btn-lang" title="Dili Değiştir / Change Language">EN</button>
