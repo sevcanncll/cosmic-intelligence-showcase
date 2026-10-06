@@ -8,6 +8,29 @@
 
 ---
 
+## 📸 Ekran Görüntüleri & Canlı Görünüm (Screenshots)
+
+<div align="center">
+  <h3>🌌 1. Kozmik Giriş & Bilişsel Profilleme Arayüzü</h3>
+  <img src="assets/img/screenshot_home.png" alt="Cosmic Intelligence Giriş Ekranı" width="900" style="border-radius: 12px; box-shadow: 0 0 30px rgba(0,229,255,0.3);" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📑 2. Baskıya Hazır Resmi A4 Profil Raporu & PDF Çıktısı</h3>
+  <img src="assets/img/screenshot_report.png" alt="Cosmic Intelligence A4 Rapor Çıktısı" width="700" style="border-radius: 12px; box-shadow: 0 0 30px rgba(124,58,237,0.3);" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ 3. Çok Aşamalı Gerçek Zamanlı Yapay Zeka Analizi</h3>
+  <img src="assets/img/screenshot_step.png" alt="AI Analiz Aşaması" width="800" style="border-radius: 12px;" />
+</div>
+
+---
+
 ## 🌟 Proje Vizyonu (Project Vision)
 
 **Cosmic Intelligence**, bireylerin doğum haritası astrolojik efemeris koordinatları ile **mesleki pozisyonlarını ve çalışma dinamiklerini** bir araya getiren; bilişsel liderlik, kariyer potansiyeli ve profesyonel karakter haritası çıkaran yeni nesil yapay zeka profilleme platformudur.
