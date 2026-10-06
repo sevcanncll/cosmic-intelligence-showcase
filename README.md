@@ -5,6 +5,9 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Pure%20Native%20PHP-00E5FF?style=for-the-badge)](https://github.com/sevcanncll)
 [![Output](https://img.shields.io/badge/Output-Print%20Ready%20A4%20%26%20PDF-FFD700?style=for-the-badge)](https://github.com/sevcanncll)
 [![Developer](https://img.shields.io/badge/Architect-Sevcan%20Ko%C3%A7-8B5CF6?style=for-the-badge)](https://github.com/sevcanncll)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-success?style=for-the-badge&logo=github)](https://sevcanncll.github.io/cosmic-intelligence-showcase/)
+
+> 🚀 **Canlı Demoyu Deneyin (Try Live Demo):** **[https://sevcanncll.github.io/cosmic-intelligence-showcase/](https://sevcanncll.github.io/cosmic-intelligence-showcase/)**
 
 ---
 
@@ -61,13 +64,12 @@ Bu platform; **şirketlere, zirvelere, lansmanlara ve mesleki organizasyonlara**
 
 ---
 
-## 🛠️ Teknoloji Yığını (Tech Stack)
+## 🛠️ Kurulum & Yerel Çalıştırma (Setup)
 
-* **Backend & API:** Pure PHP 8.x, REST API Architecture, cURL, JSON Engine
-* **Yapay Zeka (AI):** Google Gemini 2.5 Flash API (Structured JSON Output)
-* **Astroloji Algoritmaları:** Saf PHP Julian Day & Ecliptic Ephemeris Coordinate Equations
-* **Frontend:** Vanilla HTML5, Modern CSS (Glassmorphism & Print Media Query), ES6+ JavaScript
-* **Ses & Atmosfer:** Web Audio API & HTML5 Audio
+1. Projeyi XAMPP `htdocs` klasörüne yerleştirin: `C:\xampp\htdocs\cosmic_intelligence`
+2. `.env.example` dosyasını `.env` olarak kopyalayın ve Gemini API anahtarınızı girin.
+3. XAMPP Control Panel üzerinden **Apache** servisini başlatın.
+4. Tarayıcınızdan açın: `http://localhost/cosmic_intelligence/`
 
 ---
 
