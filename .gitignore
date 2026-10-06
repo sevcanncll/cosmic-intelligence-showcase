@@ -1,0 +1,28 @@
+# Environment & Secrets
+.env
+.env.local
+config.local.php
+
+# Generated User Reports & PDFs
+reports/*.pdf
+reports/*.json
+backend/reports/*
+!reports/.gitkeep
+
+# Heavy Ephemeris Binary
+backend/de421.bsp
+*.bsp
+
+# Python & Node legacy
+__pycache__/
+*.pyc
+venv/
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+
+# System & IDE
+.vscode/
+.idea/
+.agents/
